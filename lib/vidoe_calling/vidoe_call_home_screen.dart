@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:zego_uikit/zego_uikit.dart';
 import 'package:zego_uikit_prebuilt_call/zego_uikit_prebuilt_call.dart';
 
-import 'app_const_info.dart';
+import '../app_const_info.dart';
 
 class CallingPage extends StatefulWidget {
   const CallingPage({super.key, required this.callID});
